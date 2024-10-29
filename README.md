@@ -1,4 +1,4 @@
-**🌍 Currency Exchange Rate Monitor 📈**
+##**🌍 Currency Exchange Rate Monitor 📈**
 This project is a Currency Exchange Rate Monitor designed to periodically fetch exchange rates, store them in a MySQL database, and run in a Docker container for portability and ease of deployment. The system utilizes cron jobs to automate the data-fetching process every 6 hours, making it perfect for tracking currency trends over time.
 
 **📁 Project Structure**
