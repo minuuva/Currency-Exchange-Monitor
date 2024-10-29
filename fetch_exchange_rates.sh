@@ -2,12 +2,12 @@
 
 # Define API endpoint and parameters
 API_URL="http://api.exchangeratesapi.io/v1/latest"  # Base URL for ExchangeRatesAPI
-API_KEY="59a00b7f8f5cb6c7589b7d762bf68dcc"           # Replace with your actual API key
-TARGET_CURRENCIES="USD,AUD,CAD,PLN,MXN"              # Specify target currencies
+API_KEY="replace_with_your_actual_API_KEY"          # Replace with your actual API key
+TARGET_CURRENCIES="USD,AUD,CAD,PLN,MXN"             # Specify target currencies
 
 # MySQL credentials
-DB_USER="root"
-DB_PASS="Wwewrestler1"
+DB_USER="replace_with_your_actual_username"
+DB_PASS="replace_with_your_actual_password"
 DB_NAME="exchange_rates_db"
 
 # Fetch exchange rates using curl
