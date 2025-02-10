@@ -74,7 +74,7 @@ bash
 ```
 
 **Dockerfile 🐳**
-The Dockerfile sets up the environment for the project. It:
+The Dockerfile configures the environment for the project. It:
 
 Uses Alpine Linux as a lightweight base image.
 Installs necessary dependencies: bash, curl, jq, and mysql-client.
